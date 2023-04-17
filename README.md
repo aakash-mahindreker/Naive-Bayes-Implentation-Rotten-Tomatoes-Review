@@ -1,7 +1,7 @@
 # Naive-Bayes-Implentation-Rotten-Tomatoes-Review
 UTA CSE 5334: Data Mining - Text Classifier Assignment
 
-The .ipynb file is the Naive Bayes implementation using the rt_reviews.csv dataset for text classification. There are two classes in the dataset which are represented as Freshness for the Review. The values of Freshness are either "fresh" or "rotten". In this assignment we assume "fresh" and "rotten" as the representations for "Positive review" and "Negative review" respectively. 
+The .ipynb file is the Naive Bayes implementation using the rt_reviews.csv dataset (https://www.kaggle.com/datasets/ulrikthygepedersen/rotten-tomatoes-reviews) for text classification. There are two classes in the dataset which are represented as Freshness for the Review. The values of Freshness are either "fresh" or "rotten". In this assignment we assume "fresh" and "rotten" as the representations for "Positive review" and "Negative review" respectively. 
 
 Procedure for the implementation is as follows:
 1. Load and split the dataset into Train data, Development data and Test data.
